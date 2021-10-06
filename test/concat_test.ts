@@ -1,5 +1,5 @@
 import { expect } from 'https://deno.land/x/tdd/mod.ts'
-import * as _ from "../src/ccclodash.ts";
+import * as _ from "../src/concat.ts";
 
 Deno.test("concat", () => {
   var array = [1];
